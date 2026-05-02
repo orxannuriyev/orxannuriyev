@@ -1,16 +1,118 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Orkhan Nuriyev</h1>
+<h3 align="center">Data Scientist | Machine Learning & Data Systems</h3>
 
-<!--
-**orxannuriyev/orxannuriyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+AI+%26+ML+Enthusiast;Building+Data+Pipelines+and+ML+Systems" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/orkhannuriyev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Orkhan_Nuriyev-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:orkhannuriyevwork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎯 Data Scientist focused on **machine learning systems & data pipelines**
+- 🧠 Strong foundation in **statistics, probability, and analytical modeling**
+- ⚙️ Build **end-to-end ML pipelines (data → modeling → deployment)**
+- 📊 Interested in **time-series forecasting & decision systems**
+
+---
+
+## 💡 What I Do
+
+> I build **machine learning systems and analytical pipelines** using **Python, SQL, and statistical modeling** to solve **real-world optimization problems**.
+
+---
+
+## 🧠 Featured Project
+
+### 🌍 QuadroSense — Soil Moisture Prediction System  
+🔗 https://www.quadrosense.online/
+
+- 📈 Predicts **14-day soil moisture levels** using weather data  
+- 🤖 Model: **XGBoost-based time-series forecasting**  
+- 🏗️ Pipeline: ingestion → cleaning → feature engineering → modeling  
+- 🗄️ Database: **DuckDB (Medallion Architecture)**  
+- 🌐 Includes **web dashboard + irrigation advisory system**
+
+### ⚡ Impact
+- Supports **multi-climate agricultural decision-making**
+- Enables **data-driven irrigation optimization**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+`Python` `SQL`
+
+### 🤖 Machine Learning & Data Science
+`Pandas` `NumPy` `Scikit-learn` `SciPy`  
+`Feature Engineering` `Time-Series Forecasting` `Statistical Modeling`
+
+### 🗄️ Data & Analytics
+`DuckDB` `MySQL` `Power BI` `Excel`
+
+### ⚙️ Tools & Platforms
+`GitHub` `Jupyter Notebook` `Google Colab` `Visual Studio Code`
+
+---
+
+## 🎓 Education
+
+**BBA — Azerbaijan State University of Economics (UNEC)**  
+- Specialization: **Business Analytics**  
+- Focus: **Statistics, Probability, Mathematical Methods in Decision Making**  
+- Distinction: **Top 15 GPA Scholarship**
+
+**Data Science Program — IronHack / IDDA**  
+- Machine Learning, EDA, Feature Engineering  
+- Model evaluation: **R², RMSE, F1, Cross-validation**  
+- Tools: Pandas, NumPy, Scikit-learn, DuckDB  
+
+**AI Engineering — AI Academy**  
+- Linear Algebra, Calculus, Probability for AI systems  
+
+**Data Science & Engineering — Sigma Software University**  
+- Practical training in **data processing, analytics workflows, and software practices**
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **Oracle Certified Data Science Professional (OCI 2025)**
+- **Oracle AI Foundations Associate (OCI 2025)**
+- **Top 15 GPA — UNEC**
+- **Red Hearts Education Scholarship (Kapital Bank)**
+- **Gold Medal — National Geography Competition (Top 5 / 5000)**
+- **Silver Badge — Top 200 / 100,000 graduates**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=orxannuriyev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orxannuriyev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orxannuriyev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 orkhannuriyevwork@gmail.com  
+- 🔗 https://www.linkedin.com/in/orkhannuriyev/
