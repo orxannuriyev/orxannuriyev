@@ -21,7 +21,6 @@
 - 🎯 Data Scientist focused on **machine learning systems & data pipelines**
 - 🧠 Strong foundation in **statistics, probability, and analytical modeling**
 - ⚙️ Build **end-to-end ML pipelines (data → modeling → deployment)**
-- 📊 Interested in **time-series forecasting & decision systems**
 
 ---
 
