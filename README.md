@@ -72,15 +72,15 @@
 - Distinction: **Top 15 GPA Scholarship**
 
 **Data Science Program — IronHack / IDDA**  
-- Machine Learning, EDA, Feature Engineering  
-- Model evaluation: **R², RMSE, F1, Cross-validation**  
-- Tools: Pandas, NumPy, Scikit-learn, DuckDB  
+- Machine Learning(Supervised, Unsupervised, Reinforcement), EDA, Feature Engineering  
+- Deep Learning(NN, CNN), EDA, Feature Engineering  
+- Tools: Pandas, NumPy, Scikit-learn, DuckDB, SciPy, PyTorch 
 
 **AI Engineering — AI Academy**  
 - Linear Algebra, Calculus, Probability for AI systems  
 
-**Data Science & Engineering — Sigma Software University**  
-- Practical training in **data processing, analytics workflows, and software practices**
+**Data Analytics — Sigma Software University**  
+- Practical training in **data processing, analytics workflows**
 
 ---
 
