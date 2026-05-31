@@ -53,14 +53,14 @@
 `Python` `SQL`
 
 ### 🤖 Machine Learning & Data Science
-`Pandas` `NumPy` `Scikit-learn` `SciPy`  
+`Pandas` `NumPy` `Scikit-learn` `SciPy` `PyTorch` `Seaborn` `Matplolib`
 `Feature Engineering` `Time-Series Forecasting` `Statistical Modeling`
 
 ### 🗄️ Data & Analytics
 `DuckDB` `MySQL` `Power BI` `Excel`
 
 ### ⚙️ Tools & Platforms
-`GitHub` `Jupyter Notebook` `Google Colab` `Visual Studio Code`
+`GitHub` `Jupyter Notebook` `Google Colab` `Visual Studio Code` `Docker`
 
 ---
 
@@ -73,7 +73,7 @@
 
 **Data Science Program — IronHack / IDDA**  
 - Machine Learning(Supervised, Unsupervised, Reinforcement), EDA, Feature Engineering  
-- Deep Learning(NN, CNN), EDA, Feature Engineering  
+- Deep Learning(NN, CNN), EDA, Feature Engineering, MLOps 
 - Tools: Pandas, NumPy, Scikit-learn, DuckDB, SciPy, PyTorch 
 
 **AI Engineering — AI Academy**  
