@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Orkhan Nuriyev</h1>
-<h3 align="center">Data Scientist | Machine Learning & Data Systems</h3>
+<h3 align="center">Data Scientist | Machine Learning & AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+AI+%26+ML+Enthusiast;Building+Data+Pipelines+and+ML+Models" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+AI+%26+ML+Engineer;Building+Data+Pipelines+and+ML+Models" />
 </p>
 
 <p align="center">
