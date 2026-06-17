@@ -26,7 +26,7 @@
 
 ## 💡 What I Do
 
-> I build **machine learning systems and analytical pipelines** using **Python, SQL, and statistical modeling** to solve **real-world optimization problems**.
+> I build **machine learning/AI systems and analytical pipelines** using **Python, SQL, and statistical modeling** to solve **real-world optimization problems**.
 
 ---
 
@@ -60,7 +60,7 @@
 `DuckDB` `MySQL` `Power BI` `Excel`
 
 ### ⚙️ Tools & Platforms
-`GitHub` `Jupyter Notebook` `Google Colab` `Visual Studio Code` `Docker`
+`GitHub` `Jupyter Notebook` `Google Colab` `Visual Studio Code` `Docker` `ChromaDB`
 
 ---
 
@@ -73,11 +73,12 @@
 
 **Data Science Program — IronHack / IDDA**  
 - Machine Learning(Supervised, Unsupervised, Reinforcement), EDA, Feature Engineering  
-- Deep Learning(NN, CNN), EDA, Feature Engineering, MLOps 
+- Deep Learning(NN, CNN), EDA, Feature Engineering, MLOps, LLMs, RAG
 - Tools: Pandas, NumPy, Scikit-learn, DuckDB, SciPy, PyTorch 
 
 **AI Engineering — AI Academy**  
-- Linear Algebra, Calculus, Probability for AI systems  
+- Linear Algebra, Calculus, Probability for AI Engineering
+- Machine Learning, Deep Learning
 
 **Data Analytics — Sigma Software University**  
 - Practical training in **data processing, analytics workflows**
