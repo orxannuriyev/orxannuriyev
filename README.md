@@ -136,7 +136,7 @@ Machine Learning platform that predicts soil moisture levels using weather data 
 - Large Language Models (LLMs)
 - AI Agents
 
-### Business Administration — Azerbaijan State University of Economics (UNEC)
+### Business Administration(Business Analytics) — Azerbaijan State University of Economics (UNEC)
 
 - Statistics & Probability
 - Mathematical Methods in Decision Making
