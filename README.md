@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;duration=3200&amp;pause=1200&amp;color=48C4D8&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=38&amp;lines=LLMs+%26+Agentic+AI+%E2%80%A2+RAG+Systems;Real-Time+Voice+AI+%E2%80%A2+Speech+Processing;Machine+Learning+%E2%80%A2+Computer+Vision;FastAPI+%E2%80%A2+Docker+%E2%80%A2+MLOps" width="95%" alt="Focus areas: LLMs, RAG, Voice AI, ML, Computer Vision, and MLOps" />
 
   <p>
-    <a href="https://orkhannuriyev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D203A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="https://orkhannuriyev.com/"><img src="https://img.shields.io/badge/Portfolio-0D203A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/orkhannuriyev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:orkhannuriyevwork@gmail.com"><img src="https://img.shields.io/badge/Email-087E8B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   </p>
