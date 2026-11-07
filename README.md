@@ -145,59 +145,37 @@ flowchart LR
 - 🎓 **Red Hearts Education Scholarship** — Kapital Bank *(2023)*
 - 🥇 **Gold Medal, National Geography Olympiad** · **Silver Badge for Excellence in Education** *(2023)*
 
-
-### `06` &nbsp; GitHub Activity
+### `06` &nbsp; GitHub Statistics
 
 <div align="center">
 
-<h3>⚡ Code. Build. Deploy. Repeat.</h3>
-
-<p>
-Exploring AI engineering through real-world projects,
-experimentation, and continuous development.
-</p>
+<h3>📊 GitHub Performance</h3>
 
 <table>
-<tr>
-<td align="center" width="50%">
-<h3>🧠 AI Engineering</h3>
-<p>LLMs · RAG · Voice AI · Agents</p>
-<a href="https://github.com/orxannuriyev/AzVoice-AI">
-<strong>Explore AzVoice AI →</strong>
-</a>
-</td>
-<td align="center" width="50%">
-<h3>📊 Applied Machine Learning</h3>
-<p>ML Pipelines · Forecasting · MLOps</p>
-<a href="https://www.quadrosense.online/">
-<strong>Explore QuadroSense →</strong>
-</a>
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=orxannuriyev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orxannuriyev&amp;theme=tokyonight"
+        width="100%"
+        alt="Top Programming Languages"
+      />
+    </td>
+  </tr>
 </table>
 
-<h3>📈 Contributions & Open Source</h3>
+<h3>🔥 Contribution Streak</h3>
 
-<p>
-<a href="https://github.com/orxannuriyev">
-<strong>🟢 View Contribution Calendar</strong>
-</a>
-&nbsp; | &nbsp;
-<a href="https://github.com/orxannuriyev?tab=repositories">
-<strong>📂 All Repositories</strong>
-</a>
-&nbsp; | &nbsp;
-<a href="https://github.com/pulls?q=is%3Apr+author%3Aorxannuriyev">
-<strong>🔀 Pull Requests</strong>
-</a>
-</p>
-
-<sub>Consistently learning, building and improving AI systems.</sub>
-
-</div>
-
-**[Portfolio](https://orkhannuriyev.vercel.app/)** &nbsp;•&nbsp; **[LinkedIn](https://www.linkedin.com/in/orkhannuriyev/)** &nbsp;•&nbsp; **[Email](mailto:orkhannuriyevwork@gmail.com)**
-
-<sub>Building AI systems that understand, reason, and communicate.</sub>
+<img
+  src="https://streak-stats.demolab.com/?user=orxannuriyev&amp;theme=tokyonight&amp;hide_border=true"
+  width="55%"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
